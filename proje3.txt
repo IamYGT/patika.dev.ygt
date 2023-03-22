@@ -1,0 +1,20 @@
+
+- Root 7'dir.
+- 5, 1 ve 8 sırasıyla 7'nin soluna, solunun soluna ve sağına eklenir.
+- 3 ve 6 sırasıyla 5'in sağına ve 1'in sağına eklenir.
+- 0 ve 4 sırasıyla 3'ün soluna ve 8'in soluna eklenir.
+- 2 6'nın soluna eklenir.
+- 9 8'in sağına eklenir.
+
+İşlem sonucunda ağaç aşağıdaki gibi oluşur:
+            7
+          /   \\
+         5     8
+        / \\     \\
+        1   6     9
+        \\   \\
+        3   6
+        / \\
+        0   4
+        /
+        2
