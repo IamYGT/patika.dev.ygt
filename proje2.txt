@@ -1,0 +1,13 @@
+İlk adımda, dizi 2 eşit parçaya bölünür: [16, 21, 11] ve [8, 12, 22].
+
+İkinci adımda, her bir alt dizi yine 2 eşit parçaya bölünür: [16], [21, 11] ve [8], [12, 22].
+
+Üçüncü adımda, alt dizilerin her biri sıralanır: [16], [11, 21] ve [8], [12, 22].
+
+Dördüncü adımda, iki sıralanmış alt dizi birleştirilir: [11, 16, 21] ve [8, 12, 22].
+
+Son adımda, iki birleştirilmiş alt dizi de sıralanır ve tam olarak sıralanmış bir dizi elde edilir: [8, 11, 12, 16, 21, 22].
+
+Böylece, verilen dizinin Merge Sort ile sıralanması 6 adımda gerçekleştirilir.
+
+https://app.patika.dev/iamygt
